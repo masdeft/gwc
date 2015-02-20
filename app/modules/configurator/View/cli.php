@@ -1,0 +1,2 @@
+<?php
+// Cli output messages
